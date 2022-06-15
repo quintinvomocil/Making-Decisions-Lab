@@ -165,6 +165,13 @@ if (changeMyMind = true) {
 
 //CODE HERE
 
+if (changeMyMind !== true) {
+    changeMyMind = true;}
+
+    console.log(changeMyMind);
+  
+
+
 ////////// ADVANCED PROBLEMS //////////
 
 ////////// PROBLEM 11 //////////
